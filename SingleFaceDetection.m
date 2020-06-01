@@ -1,4 +1,5 @@
 % detecting single face in an image using Viola-Jones Algorithm
+% DPattnaik
 clear all
 image=imread('CVRaman.jpg');
 [width,height]=size(image);
